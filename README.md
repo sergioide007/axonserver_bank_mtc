@@ -1,2 +1,2 @@
 # axonserver_bank_mtc
-Project backend use axonserver for 
+Project backend using axonserver for use intern of MTC
